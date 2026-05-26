@@ -1,0 +1,9 @@
+# Swift Package Manager build artifacts.
+.build/
+.swiftpm/
+Package.resolved
+
+# Xcode generated.
+DerivedData/
+*.xcuserdata/
+*.xcworkspace/xcuserdata/
